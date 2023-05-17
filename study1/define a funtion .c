@@ -9,6 +9,7 @@ int main()
 {
     /*调用函数*/
     br();
+    
     br();
     br();
     deny();
